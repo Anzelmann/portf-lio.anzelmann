@@ -1,6 +1,6 @@
 function inicio() {
 
-  location = "inicio.html";
+  location = "index.html";
   
 }
 
